@@ -1,0 +1,11 @@
+2025-04-13 23:10:36.989581 - Received CBT.V505.FILE823.PDS from FILE823.XMI 
+2025-04-13 23:10:36.990500 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:10:36.990582 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/$$NOTE1
+2025-04-13 23:10:36.990652 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/$$NOTE2
+2025-04-13 23:10:36.990714 - Found $$NOTE3.txt (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/$$NOTE3
+2025-04-13 23:10:36.990775 - Found $$NOTE4.txt (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/$$NOTE4
+2025-04-13 23:10:36.990837 - Found @FILE823.txt (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/@FILE823
+2025-04-13 23:10:36.990916 - Found DOECMP.rexx (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/DOECMP
+2025-04-13 23:10:36.990980 - Found DOESHL.rexx (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/DOESHL
+2025-04-13 23:10:36.991062 - Found ISRTSOA.bin (application/octet-stream) in CBT.V505.FILE823.PDS, moved to PDS/ISRTSOA
+2025-04-13 23:10:36.991122 - Found VIEWPOOL.rexx (text/plain) in CBT.V505.FILE823.PDS, moved to PDS/VIEWPOOL
